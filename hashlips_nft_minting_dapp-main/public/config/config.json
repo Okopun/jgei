@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0xC1380A323FF6Fb1d411704CaF8014826678aBE0D",
+  "SCAN_LINK": "https://polygonscan.com/address/0xC1380A323FF6Fb1d411704CaF8014826678aBE0D",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Plant a Tree"
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
